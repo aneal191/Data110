@@ -31,39 +31,38 @@
 - find out if anyone in class climbs
 
 ### More info
-Here is a [link to a good climbing magazine](https://www.climbing.com/).
+Here is a link to a [climbing magazine](https://www.climbing.com/).
 
-### Images
+### This is not me
 ![This is not me](https://github.com/user-attachments/assets/6866fa8c-318c-4aba-a6aa-919c64fb6bb3)
 
 
 ### Blockquotes
-> "Mathematics is the art of giving the same name to different things."  
-> — Henri Poincaré
+> "Mountains are not stadiums where I satisfy my ambition to achieve, they are the cathedrals where I practice my religion."
+> — Anatoli Boukreev
 
 ### Inline Code & Code Blocks
 This is an example of `inline code` used within a sentence.
 
 ```
-def hello_world():
-    print("Hello, world!")
+def Climbing_world():
+    print("Climb on, world!")
 ```
 
 ### Tables
-| Programming Language | Difficulty Level | Use Case           |
+| Type of Climbing | Difficulty | One practioner           |
 |----------------------|------------------|--------------------|
-| Python               | Easy             | Data Science, AI   |
-| JavaScript           | Moderate         | Web Development    |
-| C++                  | Hard             | Game Development   |
+| top-roping               | Easy             | Random gumby   |
+| lead climbing           | Moderate         | Yours truly    |
+| free soloing                  | Crazy Hard             | Alex Honnold   |
 
-### Task List
-- [x] Create a Markdown file
-- [x] Practice headers
-- [ ] Learn how to use tables
-- [ ] Experiment with task lists
-- [ ] sleep well
-- [ ] workout
-- [ ] talk to a friend 
+### Crags I've climbed
+- [x] New River Gorge
+- [x] Rumney
+- [x] The Gunks
+- [ ] Joshua Tree
+- [ ] Adirondaks
+- [ ] Acadia national forest 
 
 ### Footnotes
 Here’s a footnote about how to add extra information to your document. [^1]
