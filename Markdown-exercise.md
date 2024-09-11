@@ -26,7 +26,7 @@
 4. local climbing gym
    
 ### These are random notes to self
-- Don't say anything about falling
+- Don't mention falling
 - Don't mention snakes and spiders
 - find out if anyone in class climbs
 
@@ -37,7 +37,7 @@ Here is a link to a [climbing magazine](https://www.climbing.com/).
 ![This is not me](https://github.com/user-attachments/assets/6866fa8c-318c-4aba-a6aa-919c64fb6bb3)
 
 
-### Blockquotes
+### Inspiring Quote
 > "Mountains are not stadiums where I satisfy my ambition to achieve, they are the cathedrals where I practice my religion."
 > — Anatoli Boukreev
 
@@ -65,6 +65,6 @@ def Climbing_world():
 - [ ] Acadia national forest 
 
 ### Footnotes
-Here’s a footnote about how to add extra information to your document. [^1]
+Here’s a footnote about how to get started climbing. [^1]
 
-[^1]: Footnotes allow you to expand on details without cluttering the main text.
+[^1]: Does anyone actually read footnotes?
